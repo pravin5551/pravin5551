@@ -1,4 +1,4 @@
-<h1 align="center">Hello</h1>
+
 
 <h1 align="center">Hi 👋, I'm Pravin Pawar</h1>
 <h3 align="center">A passionate full stack android developer from India</h3>

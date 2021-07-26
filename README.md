@@ -31,4 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravin5551&show_icons=true&locale=en" alt="pravin5551" /></p>
 
+![Pravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravin5551&show_icons=true&theme=radical)
+
 <a href="https://github.com/pravin5551/github-readme-activity-graph"><img alt="Pravin Pawar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pravin5551&&theme=dracula" /></a>

@@ -33,21 +33,21 @@
 
 <p align="start">
     <a href="https://github.com/sanjoy9875/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pravin5551's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pravin5551&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pravin5551's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pravin5551&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   
 </p>
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravin5551&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravin5551&theme=chartreuse-dark)
 
 ---
 
-![Pravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravin5551&show_icons=true&theme=dracula)
+![Pravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravin5551&show_icons=true&theme=chartreuse-dark)
 
 ---
 
-<a href="https://github.com/pravin5551/github-readme-activity-graph"><img alt="Pravin Pawar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pravin5551&&theme=dracula" /></a>
+<a href="https://github.com/pravin5551/github-readme-activity-graph"><img alt="Pravin Pawar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pravin5551&&theme=chartreuse-dark" /></a>
 
 ---

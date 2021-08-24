@@ -50,5 +50,4 @@
 
 <a href="https://github.com/pravin5551/github-readme-activity-graph"><img alt="Pravin Pawar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pravin5551&&theme=chartreuse-dark" /></a>
 
-
 ---

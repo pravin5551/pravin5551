@@ -12,7 +12,6 @@
 - 📫 How to reach me **pravinvpawar5551@gmail.com**
 
 ---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pravinpawar5551/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pravinpawar5551" height="30" width="40" /></a>
@@ -31,7 +30,7 @@
 
 <p align="start">
     <a href="https://github.com/sanjoy9875/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pravin5551's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pravin5551&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥🔥 Get streak stats for your profile at git.io/streak-stats" alt="pravin5551's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pravin5551&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   
 </p>

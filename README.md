@@ -17,8 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/pravinpawar5551/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pravinpawar5551" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pravin._.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pravin._.1" height="30" width="40" /></a>
-<a href="https://medium.com/@pravinvpawar5551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pravinvpawar5551" height="30" width="40" /></a>
-  
+<a href="https://medium.com/@pravinvpawar5551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pravinvpawar5551" height="30" width="40"/></a>
 <a href="https://www.youtube.com/watch?v=0l34zmkScok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/0l34zmkscok" height="30" width="40"/></a>
 </p>
 

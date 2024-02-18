@@ -9,7 +9,7 @@
 - 👨‍💻 My Portfolio [https://pravin5551.github.io/](https://pravin5551.github.io/)
 
 - 📝 I regularly write articles on [https://pravinvpawar5551.medium.com/](https://pravinvpawar5551.medium.com/)
-- 📝 Resume: <a href="https://drive.google.com/file/d/1AhjuUoK0iyt6c_6_l9C7Fd8_SeA3rPfr/view?usp=share_link">view</a>
+- 📝 Resume: <a href="https://drive.google.com/file/d/1JTPggS-DE5r0wGvPYmR9Xb4eHvz-RRzJ/view?usp=sharing">Pravin_Pawar_Mobile_Developer_Resume</a>
 - 📫 How to reach me **pravinvpawar5551@gmail.com**
 
 ---

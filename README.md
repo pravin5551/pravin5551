@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pravin Pawar</h1>
-<h3 align="center">A passionate full stack Android Development with experience in building intelligent & scalable applications using Flutter | Kotlin | Java. I love mobile apps, distributed systems, open source projects and the challenges associated with them. I like writing,sharing my knowledge with other engineers. </h3>
+<h3 align="center">A dedicated Android Developer skilled in Kotlin, Java, and Dart with a strong background in debugging and MVVM architecture. Proficient in Flutter Provider, Room, SQFlite, and adept at Deep Linking and Sembast. Experienced with BitBucket, Figma, Trello, Jira, and Agile Methodology. Expertise in Git, Android SDK, and Payment Gateway integration. Well-versed in Memory Management, ExoPlayer, and Google API usage. Experienced in Linter Integration, Google Play Store deployment, State Management, and API Integration. Proficient with Charles Web Debugging Proxy. Passionate about mobile app development, open-source projects, and sharing knowledge with fellow engineers. </h3>
 
 
 - 🌱 I’m currently working on **Mobile Development**
